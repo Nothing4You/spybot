@@ -41,6 +41,13 @@
 - CTCP
     - Reply to
         - VERSION
+            - Fetch latest version strings from a couple popular clients
+                - HexChat
+                - XChat
+                - WeeChat
+                - irssi
+                - Konversation
+                - Quassel
             - randomly send a CTCP VERSION back after a few seconds
         - TIME
         - PING
