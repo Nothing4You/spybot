@@ -32,3 +32,7 @@
     - userhost-in-names
 - Initial channel list from LIST
 - SSL for IRC connections
+- Use random delays > [configurable] seconds for joins
+- Always keep at least [configurable] connections with free channel "slots" for new channels
+- Randomize which bot joins the next channel
+- Monitor channels for channels mentioned to find secret channels
