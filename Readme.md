@@ -37,3 +37,4 @@
 - Randomize which bot joins the next channel
 - Monitor channels for channels mentioned to find secret channels
 - Anti-idle
+    - Cleverbot randomly replying in a random chan after someone speaking in random intervals
