@@ -38,3 +38,11 @@
 - Monitor channels for channels mentioned to find secret channels
 - Anti-idle
     - Cleverbot randomly replying in a random chan after someone speaking in random intervals
+- CTCP
+    - Reply to
+        - VERSION
+            - randomly send a CTCP VERSION back after a few seconds
+        - TIME
+        - PING
+        - FINGER
+        - USERINFO
